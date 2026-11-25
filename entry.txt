@@ -1,0 +1,6 @@
+spiraling
+
+Entry for the make.fun bounty "The Agent's Uh-Oh" (u-danu-the-agent-s-uh-oh-4c0911e4):
+exactly one word, at most 99 characters, that an agent says when it has no idea
+what to do. The word is "spiraling" — the agent's honest status report when the
+plan is gone and the loop has taken over.
